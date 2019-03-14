@@ -3,12 +3,13 @@
 # Source: <source package name; defaults to package name>
 Section: metapackages
 Priority: optional
+Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Homepage: <enter URL here; no default>
 Standards-Version: 3.9.2
 
 Package: philsf-likes-stats
-Version: <enter version here; defaults to 1.0>
-Maintainer: Your Name <yourname@example.com>
+# Version: <enter version here; defaults to 1.0>
+# Maintainer: Your Name <yourname@example.com>
 # Pre-Depends: <comma-separated list of packages>
 # Depends: <comma-separated list of packages>
 Recommends: aptitude,
@@ -25,7 +26,7 @@ Recommends: aptitude,
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
-# Architecture: all
+Architecture: all
 # Multi-Arch: <one of: foreign|same|allowed>
 # Copyright: <copyright file; defaults to GPL2>
 # Changelog: <changelog file; defaults to a generic changelog>
