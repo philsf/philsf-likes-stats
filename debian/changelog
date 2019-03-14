@@ -1,3 +1,9 @@
+philsf-likes-stats (0.1.1) cosmic; urgency=medium
+
+  * Version collected from the changelog.
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 14 Mar 2019 16:25:51 -0300
+
 philsf-likes-stats (0.1.0) cosmic; urgency=medium
 
   * Initial release, using equivs-control.
