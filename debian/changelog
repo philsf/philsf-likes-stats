@@ -1,5 +1,5 @@
-philsf-likes-stats (0.1.0) UNRELEASED; urgency=medium
+philsf-likes-stats (0.1.0) cosmic; urgency=medium
 
-  * Initial release.
+  * Initial release, using equivs-control.
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 14 Mar 2019 13:13:11 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 14 Mar 2019 15:50:15 -0300
