@@ -8,7 +8,7 @@ Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 Standards-Version: 3.9.2
 
 Package: philsf-likes-stats
-Version: 0.1.2
+# Version: defaults to changelog version
 # Maintainer: Your Name <yourname@example.com>
 # Pre-Depends: <comma-separated list of packages>
 # Depends: <comma-separated list of packages>
