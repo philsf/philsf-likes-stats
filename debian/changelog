@@ -1,8 +1,8 @@
-philsf-likes-stats (0.1.3) UNRELEASED; urgency=medium
+philsf-likes-stats (0.1.3) cosmic; urgency=medium
 
   * Added (Recommends): libgit2-dev.
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Mon, 25 Mar 2019 10:26:47 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Mon, 25 Mar 2019 10:28:50 -0300
 
 philsf-likes-stats (0.1.2) cosmic; urgency=medium
 
