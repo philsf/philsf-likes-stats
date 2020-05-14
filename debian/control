@@ -14,6 +14,7 @@ Package: philsf-likes-stats
 # Pre-Depends: <comma-separated list of packages>
 Depends: ${misc:Depends}
 Recommends: aptitude,
+ default-jdk,
  emacs | emacs27 | emacs26 | emacs25 | emacs24,
  git | git-core,
  philsf-likes-workstation,
