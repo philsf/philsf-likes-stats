@@ -33,6 +33,8 @@ Recommends: aptitude,
  sqlite3-doc,
  ubuntu-minimal,
  ubuntu-standard,
+ unixodbc,
+ unixodbc-dev,
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
