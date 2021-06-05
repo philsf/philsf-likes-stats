@@ -1,8 +1,14 @@
+philsf-likes-stats (0.1.6) UNRELEASED; urgency=medium
+
+  * Added (Recommends): jupyter
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 04 Jun 2021 23:17:13 -0300
+
 philsf-likes-stats (0.1.5) groovy; urgency=medium
 
   * Added (Recommends): unixodbc, unixodbc-dev
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 05 May 2021 23:53:53 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 04 Jun 2021 23:16:32 -0300
 
 philsf-likes-stats (0.1.4) groovy; urgency=medium
 
