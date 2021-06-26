@@ -2,7 +2,7 @@ philsf-likes-stats (0.1.7) UNRELEASED; urgency=medium
 
   * Removed (Recommends): sqlite-doc
   * Demoted (Suggests): aptitude
-  * Added (Suggests): mysql
+  * Added (Suggests): mysql, postgresql
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Sat, 26 Jun 2021 03:04:44 -0300
 

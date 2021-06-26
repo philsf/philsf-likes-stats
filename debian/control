@@ -39,6 +39,7 @@ Suggests:
  aptitude,
  mysql-client,
  mysql-server,
+ postgresql,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
