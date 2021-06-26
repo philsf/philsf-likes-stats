@@ -1,10 +1,10 @@
-philsf-likes-stats (0.1.7) UNRELEASED; urgency=medium
+philsf-likes-stats (0.1.7) hirsute; urgency=medium
 
   * Removed (Recommends): sqlite-doc
   * Demoted (Suggests): aptitude
   * Added (Suggests): mysql, postgresql
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Sat, 26 Jun 2021 03:04:44 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Sat, 26 Jun 2021 03:26:51 -0300
 
 philsf-likes-stats (0.1.6) hirsute; urgency=medium
 
