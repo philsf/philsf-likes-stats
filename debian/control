@@ -13,7 +13,7 @@ Package: philsf-likes-stats
 # Maintainer: Felipe Figueiredo <philsf79@gmail.com>
 # Pre-Depends: <comma-separated list of packages>
 Depends: ${misc:Depends}
-Recommends: aptitude,
+Recommends:
  default-jdk,
  emacs | emacs27 | emacs26 | emacs25 | emacs24,
  git | git-core,
@@ -35,7 +35,8 @@ Recommends: aptitude,
  ubuntu-standard,
  unixodbc,
  unixodbc-dev,
-# Suggests: <comma-separated list of packages>
+Suggests:
+ aptitude,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
