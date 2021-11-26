@@ -37,6 +37,7 @@ Recommends:
  unixodbc-dev,
 Suggests:
  aptitude,
+ libmagick++-dev,
  mysql-client,
  mysql-server,
  postgresql,

@@ -1,3 +1,9 @@
+philsf-likes-stats (0.1.8) UNRELEASED; urgency=medium
+
+  * Added (Suggests): libmagick++-dev
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Nov 2021 22:13:33 -0300
+
 philsf-likes-stats (0.1.7) hirsute; urgency=medium
 
   * Removed (Recommends): sqlite-doc
