@@ -38,6 +38,7 @@ Recommends:
 Suggests:
  aptitude,
  libmagick++-dev,
+ mdbtools-dev,
  mysql-client,
  mysql-server,
  postgresql,

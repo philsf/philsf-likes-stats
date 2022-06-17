@@ -2,6 +2,7 @@ philsf-likes-stats (0.1.9) UNRELEASED; urgency=medium
 
   * Added (Recommends): sqlite3
   * Demoted (Suggests): sqlite3-doc
+  * Added (Suggests): mdbtools-dev
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 17 Jun 2022 12:11:02 -0300
 
