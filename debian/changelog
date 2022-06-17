@@ -1,10 +1,10 @@
-philsf-likes-stats (0.1.9) UNRELEASED; urgency=medium
+philsf-likes-stats (0.1.9) jammy; urgency=medium
 
   * Added (Recommends): sqlite3
   * Demoted (Suggests): sqlite3-doc
   * Added (Suggests): mdbtools-dev
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 17 Jun 2022 12:11:02 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 17 Jun 2022 12:13:44 -0300
 
 philsf-likes-stats (0.1.8) impish; urgency=medium
 
