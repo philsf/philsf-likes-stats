@@ -30,7 +30,7 @@ Recommends:
  r-recommended,
  r-base-dev,
  rstudio,
- sqlite3-doc,
+ sqlite3,
  ubuntu-minimal,
  ubuntu-standard,
  unixodbc,
@@ -38,9 +38,11 @@ Recommends:
 Suggests:
  aptitude,
  libmagick++-dev,
+ mdbtools-dev,
  mysql-client,
  mysql-server,
  postgresql,
+ sqlite3-doc,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
