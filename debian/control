@@ -37,6 +37,8 @@ Recommends:
  unixodbc-dev,
 Suggests:
  aptitude,
+ libfribidi-dev,
+ libharfbuzz-dev,
  libmagick++-dev,
  mdbtools-dev,
  mysql-client,

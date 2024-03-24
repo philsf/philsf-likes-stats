@@ -1,3 +1,9 @@
+philsf-likes-stats (0.1.9ubuntu1) UNRELEASED; urgency=medium
+
+  * Added (Suggests): libharfbuzz-dev, libfribidi-dev
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Sun, 24 Mar 2024 13:35:12 -0300
+
 philsf-likes-stats (0.1.9) jammy; urgency=medium
 
   * Added (Recommends): sqlite3
