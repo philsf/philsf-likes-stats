@@ -27,6 +27,7 @@ Recommends:
  libgsl-dev,
  libssl-dev,
  libxml2-dev,
+ quarto,
  r-recommended,
  r-base-dev,
  rstudio,
@@ -37,6 +38,8 @@ Recommends:
  unixodbc-dev,
 Suggests:
  aptitude,
+ libfribidi-dev,
+ libharfbuzz-dev,
  libmagick++-dev,
  mdbtools-dev,
  mysql-client,
