@@ -27,6 +27,7 @@ Recommends:
  libgsl-dev,
  libssl-dev,
  libxml2-dev,
+ quarto,
  r-recommended,
  r-base-dev,
  rstudio,
