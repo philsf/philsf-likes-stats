@@ -38,8 +38,11 @@ Recommends:
 Suggests:
 	aptitude,
 	jupyter,
+	coinor-libsymphony-dev,
+	libglpk-dev,
 	libfribidi-dev,
 	libharfbuzz-dev,
+	libsuitesparse-dev,
 	mdbtools | mdbtools-dev,
 	mysql-client,
 	mysql-server,
