@@ -17,7 +17,6 @@ Recommends:
  default-jdk,
  emacs | emacs27 | emacs26 | emacs25 | emacs24,
  git | git-core,
- jupyter,
  philsf-likes-workstation,
  libcurl4-openssl-dev,
  libgit2-dev,
@@ -38,6 +37,7 @@ Recommends:
  unixodbc | unixodbc-dev,
 Suggests:
  aptitude,
+ jupyter,
  libfribidi-dev,
  libharfbuzz-dev,
  libmagick++-dev,
@@ -45,7 +45,6 @@ Suggests:
  mysql-client,
  mysql-server,
  postgresql,
- sqlite3-doc,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
