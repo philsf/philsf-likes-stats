@@ -28,6 +28,7 @@ Recommends:
 	libssl-dev,
 	libnode-dev | libv8-dev,
 	libxml2-dev,
+	libcairo2-dev,
 	quarto,
 	r-recommended,
 	r-base,
