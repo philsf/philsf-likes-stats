@@ -14,38 +14,41 @@ Package: philsf-likes-stats
 # Pre-Depends: <comma-separated list of packages>
 Depends: ${misc:Depends}
 Recommends:
- default-jdk,
- emacs | emacs27 | emacs26 | emacs25 | emacs24,
- git | git-core,
- jupyter,
- philsf-likes-workstation,
- libcurl4-openssl-dev,
- libgit2-dev,
- libgsl-dev,
- libssl-dev,
- libxml2-dev,
- libgsl-dev,
- libssl-dev,
- libxml2-dev,
- quarto,
- r-recommended,
- r-base-dev,
- rstudio,
- sqlite3,
- ubuntu-minimal,
- ubuntu-standard,
- unixodbc,
- unixodbc-dev,
+	default-jdk,
+	emacs | emacs27 | emacs26 | emacs25 | emacs24,
+	git | git-core,
+	graphviz,
+	philsf-likes-workstation,
+	libcurl4-openssl-dev,
+	libgit2-dev,
+	libgsl-dev,
+	libicu-dev,
+	libmagick++-dev,
+	librsvg2-dev,
+	libssl-dev,
+	libnode-dev | libv8-dev,
+	libxml2-dev,
+	libcairo2-dev,
+	quarto,
+	r-recommended,
+	r-base,
+	r-base-dev,
+	rstudio,
+	sqlite3,
+	ubuntu-minimal,
+	ubuntu-standard,
 Suggests:
- aptitude,
- libfribidi-dev,
- libharfbuzz-dev,
- libmagick++-dev,
- mdbtools-dev,
- mysql-client,
- mysql-server,
- postgresql,
- sqlite3-doc,
+	aptitude,
+	jupyter,
+	libglpk-dev,
+	libfribidi-dev,
+	libharfbuzz-dev,
+	mdbtools | mdbtools-dev,
+	mysql-client,
+	mysql-server,
+	postgresql,
+	pspp,
+	unixodbc | unixodbc-dev,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
@@ -55,7 +58,7 @@ Architecture: all
 # Extra-Files: <comma-separated list of additional files for the doc directory>
 # Files: <pair of space-separated paths; First is file to include, second is destination>
 #  <more pairs, if there's more than one file to include. Notice the starting space>
-Description: Metapackage to install statistical analyses related packages 
- long description and info
- .
- second paragraph
+Description: Biostatistics and Epidemiology Consultancy Environment
+A specialized toolkit tailored for statistical analysis and clinical research. This package provides the necessary system-level dependencies for a seamless R-based analysis workflow.
+.
+It is designed to ensure a stable, reproducible environment for R, satisfying the build requirements for CRAN packages.
