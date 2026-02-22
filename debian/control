@@ -47,6 +47,7 @@ Suggests:
 	mysql-client,
 	mysql-server,
 	postgresql,
+	pspp,
 	unixodbc | unixodbc-dev,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
