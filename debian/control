@@ -27,7 +27,6 @@ Recommends:
 	libxml2-dev,
 	libcairo2-dev,
 	quarto,
-	r-recommended,
 	r-base,
 	r-base-dev,
 	rstudio,
