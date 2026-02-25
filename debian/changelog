@@ -1,3 +1,9 @@
+philsf-likes-stats (0.1.11) noble; urgency=medium
+
+  * Retrofit: major update to fix various dependencies
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 16:38:17 -0300
+
 philsf-likes-stats (0.1.10) jammy; urgency=medium
 
   * Added (Suggests): libharfbuzz-dev, libfribidi-dev
