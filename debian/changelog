@@ -1,3 +1,9 @@
+philsf-likes-stats (0.1.12) UNRELEASED; urgency=medium
+
+  * Removed: libssl-dev,
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 19:52:50 -0300
+
 philsf-likes-stats (0.1.11) noble; urgency=medium
 
   * Retrofit: major update to fix various dependencies
