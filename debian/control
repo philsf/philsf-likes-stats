@@ -22,7 +22,6 @@ Recommends:
 	libcurl4-openssl-dev,
 	libgit2-dev,
 	libgsl-dev,
-	libicu-dev,
 	libmagick++-dev,
 	libnode-dev | libv8-dev,
 	libxml2-dev,
