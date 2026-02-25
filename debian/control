@@ -24,7 +24,6 @@ Recommends:
 	libgsl-dev,
 	libicu-dev,
 	libmagick++-dev,
-	librsvg2-dev,
 	libnode-dev | libv8-dev,
 	libxml2-dev,
 	libcairo2-dev,

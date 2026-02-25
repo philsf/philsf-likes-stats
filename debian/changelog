@@ -1,6 +1,6 @@
 philsf-likes-stats (0.1.12) UNRELEASED; urgency=medium
 
-  * Removed: libssl-dev,
+  * Removed: libssl-dev, librsvg2-dev,
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 19:52:50 -0300
 
