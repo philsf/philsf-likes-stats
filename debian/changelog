@@ -1,9 +1,9 @@
-philsf-likes-stats (0.1.13) UNRELEASED; urgency=medium
+philsf-likes-stats (0.1.13) noble; urgency=medium
 
   * Removed: libgit2-dev, libgsl-dev,
   * Suggests: libfftw3-dev, libgmp-dev,
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 26 Feb 2026 19:17:55 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 26 Feb 2026 19:21:33 -0300
 
 philsf-likes-stats (0.1.12) noble; urgency=medium
 
