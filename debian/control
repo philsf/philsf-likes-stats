@@ -36,7 +36,6 @@ Recommends:
 Suggests:
 	aptitude,
 	jupyter,
-	libglpk-dev,
 	libfftw3-dev,
 	libgmp-dev,
 	libnode-dev | libv8-dev,
