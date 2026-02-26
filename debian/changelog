@@ -1,6 +1,6 @@
 philsf-likes-stats (0.1.12) UNRELEASED; urgency=medium
 
-  * Recommends: libharfbuzz-dev, libfribidi-dev, libudunits2-dev, pandoc
+  * Recommends: libharfbuzz-dev, libfribidi-dev, libudunits2-dev, pandoc, libgdal-dev,
   * Removed: libssl-dev, librsvg2-dev, libicu-dev, r-recommended, graphviz, libmagick++-dev,
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 25 Feb 2026 19:52:50 -0300

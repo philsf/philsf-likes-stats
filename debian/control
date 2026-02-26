@@ -24,6 +24,7 @@ Recommends:
 	libnode-dev | libv8-dev,
 	libfribidi-dev,
 	libharfbuzz-dev,
+	libgdal-dev,
 	libudunits2-dev,
 	libxml2-dev,
 	libcairo2-dev,
