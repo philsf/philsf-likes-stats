@@ -1,3 +1,9 @@
+philsf-likes-stats (0.1.13) UNRELEASED; urgency=medium
+
+  * Removed: libgit2-dev, libgsl-dev,
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 26 Feb 2026 19:17:55 -0300
+
 philsf-likes-stats (0.1.12) noble; urgency=medium
 
   * Recommends: libharfbuzz-dev, libfribidi-dev, libudunits2-dev, pandoc, libgdal-dev,

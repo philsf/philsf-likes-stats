@@ -19,8 +19,6 @@ Recommends:
 	git | git-core,
 	philsf-likes-workstation,
 	libcurl4-openssl-dev,
-	libgit2-dev,
-	libgsl-dev,
 	libfribidi-dev,
 	libharfbuzz-dev,
 	libgdal-dev,
