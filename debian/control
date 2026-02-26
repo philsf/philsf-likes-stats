@@ -19,8 +19,6 @@ Recommends:
 	git | git-core,
 	philsf-likes-workstation,
 	libcurl4-openssl-dev,
-	libgit2-dev,
-	libgsl-dev,
 	libfribidi-dev,
 	libharfbuzz-dev,
 	libgdal-dev,
@@ -38,7 +36,8 @@ Recommends:
 Suggests:
 	aptitude,
 	jupyter,
-	libglpk-dev,
+	libfftw3-dev,
+	libgmp-dev,
 	libnode-dev | libv8-dev,
 	mdbtools | mdbtools-dev,
 	mysql-client,
@@ -55,7 +54,7 @@ Architecture: all
 # Extra-Files: <comma-separated list of additional files for the doc directory>
 # Files: <pair of space-separated paths; First is file to include, second is destination>
 #  <more pairs, if there's more than one file to include. Notice the starting space>
-Description: Biostatistics and Epidemiology Consultancy Environment
+Description: Biostatistics and Epidemiology Analysis Environment
  A specialized toolkit tailored for statistical analysis and clinical research. This package provides the necessary system-level dependencies for a seamless R-based analysis workflow.
  .
  It is designed to ensure a stable, reproducible environment for R, satisfying the build requirements for CRAN packages.
