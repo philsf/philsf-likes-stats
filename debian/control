@@ -25,6 +25,7 @@ Recommends:
 	libudunits2-dev,
 	libxml2-dev,
 	libcairo2-dev,
+	librsvg2-dev,
 	pandoc,
 	quarto,
 	r-base,

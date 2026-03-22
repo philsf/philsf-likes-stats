@@ -1,3 +1,9 @@
+philsf-likes-stats (0.2.0) noble; urgency=medium
+
+  * Recommends: librsvg2-dev,
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Sun, 22 Mar 2026 15:30:42 -0300
+
 philsf-likes-stats (0.1.13) noble; urgency=medium
 
   * Removed: libgit2-dev, libgsl-dev,
