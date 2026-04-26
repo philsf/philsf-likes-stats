@@ -23,6 +23,7 @@ Recommends:
 	libharfbuzz-dev,
 	libgdal-dev,
 	libudunits2-dev,
+	libuv1-dev,
 	libxml2-dev,
 	libcairo2-dev,
 	librsvg2-dev,
