@@ -14,10 +14,9 @@ Package: philsf-likes-stats
 # Pre-Depends: <comma-separated list of packages>
 Depends: ${misc:Depends}
 Recommends:
-	default-jdk,
-	emacs | emacs27 | emacs26 | emacs25 | emacs24,
+	default-jdk-headless | default-jdk,
+	emacs,
 	git | git-core,
-	philsf-likes-workstation,
 	libcurl4-openssl-dev,
 	libfribidi-dev,
 	libharfbuzz-dev,
