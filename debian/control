@@ -14,7 +14,7 @@ Package: philsf-likes-stats
 # Pre-Depends: <comma-separated list of packages>
 Depends: ${misc:Depends}
 Recommends:
-	default-jdk,
+	default-jdk-headless | default-jdk,
 	emacs,
 	git | git-core,
 	philsf-likes-workstation,

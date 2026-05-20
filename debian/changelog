@@ -1,6 +1,6 @@
 philsf-likes-stats (0.2.2) UNRELEASED; urgency=medium
 
-  * Removed (Recommends): emacs legacy versions,
+  * Removed (Recommends): emacs legacy versions, jdk switched to headless,
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 20 May 2026 05:10:54 -0300
 
