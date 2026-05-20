@@ -17,7 +17,6 @@ Recommends:
 	default-jdk-headless | default-jdk,
 	emacs,
 	git | git-core,
-	philsf-likes-workstation,
 	libcurl4-openssl-dev,
 	libfribidi-dev,
 	libharfbuzz-dev,
