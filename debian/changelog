@@ -1,10 +1,10 @@
-philsf-likes-stats (0.2.3) UNRELEASED; urgency=medium
+philsf-likes-stats (0.2.3) resolute; urgency=medium
 
   * Refactor: minimal list of -dev packages
   * unixodbc-dev is auto pulled, so we keep odbc grouped with DBs
   * cmake is common R package dependency
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Wed, 20 May 2026 19:24:51 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 21 May 2026 18:37:54 -0300
 
 philsf-likes-stats (0.2.2) noble; urgency=medium
 
