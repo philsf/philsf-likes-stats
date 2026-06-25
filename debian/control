@@ -30,6 +30,7 @@ Recommends:
 	r-base-dev,
 	rstudio,
 	sqlite3,
+	duckdb,
 	ubuntu-minimal,
 	ubuntu-standard,
 Suggests:
