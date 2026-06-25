@@ -14,38 +14,34 @@ Package: philsf-likes-stats
 # Pre-Depends: <comma-separated list of packages>
 Depends: ${misc:Depends}
 Recommends:
+	cmake,
 	default-jdk-headless | default-jdk,
 	emacs,
 	git | git-core,
-	libcurl4-openssl-dev,
-	libfribidi-dev,
-	libharfbuzz-dev,
+	libabsl-dev
+	libfftw3-dev,
 	libgdal-dev,
-	libudunits2-dev,
-	libuv1-dev,
-	libxml2-dev,
-	libcairo2-dev,
+	libnode-dev | libv8-dev,
 	librsvg2-dev,
+	libudunits2-dev,
 	pandoc,
 	quarto,
 	r-base,
 	r-base-dev,
 	rstudio,
 	sqlite3,
+	duckdb,
 	ubuntu-minimal,
 	ubuntu-standard,
 Suggests:
 	aptitude,
 	jupyter,
-	libfftw3-dev,
-	libgmp-dev,
-	libnode-dev | libv8-dev,
+	unixodbc,
 	mdbtools | mdbtools-dev,
 	mysql-client,
 	mysql-server,
 	postgresql,
 	pspp,
-	unixodbc | unixodbc-dev,
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
 Architecture: all
