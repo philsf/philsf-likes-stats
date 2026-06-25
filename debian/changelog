@@ -5,7 +5,7 @@ philsf-likes-stats (0.2.3) resolute; urgency=medium
   * cmake is common R package dependency
   * duckdb as a drop-in SQLite replacement
 
- -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 21 May 2026 18:37:54 -0300
+ -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Jun 2026 19:51:31 -0300
 
 philsf-likes-stats (0.2.2) noble; urgency=medium
 
