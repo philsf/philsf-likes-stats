@@ -1,57 +1,51 @@
-### Commented entries have reasonable defaults.
-### Uncomment to edit them.
 Source: philsf-likes-stats
 Section: metapackages
 Priority: optional
 Maintainer: Felipe Figueiredo <philsf79@gmail.com>
-# Homepage: <enter URL here; no default>
-Build-Depends: debhelper (>= 7), germinate
-Standards-Version: 3.9.4
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13),
+Standards-Version: 4.6.2
+# Homepage: <insert the upstream URL, if relevant>
+Vcs-Browser: https://code.launchpad.net/~philsf/+git/philsf-likes-stats
+Vcs-Git: https://git.launchpad.net/~philsf/+git/philsf-likes-stats
 
 Package: philsf-likes-stats
-# Version: defaults to changelog version
-# Maintainer: Felipe Figueiredo <philsf79@gmail.com>
-# Pre-Depends: <comma-separated list of packages>
-Depends: ${misc:Depends}
-Recommends:
-	cmake,
-	default-jdk-headless | default-jdk,
-	emacs,
-	git | git-core,
-	libabsl-dev
-	libfftw3-dev,
-	libgdal-dev,
-	libnode-dev | libv8-dev,
-	librsvg2-dev,
-	libudunits2-dev,
-	pandoc,
-	quarto,
-	r-base,
-	r-base-dev,
-	rstudio,
-	sqlite3,
-	duckdb,
-	ubuntu-minimal,
-	ubuntu-standard,
-Suggests:
-	aptitude,
-	jupyter,
-	unixodbc,
-	mdbtools | mdbtools-dev,
-	mysql-client,
-	mysql-server,
-	postgresql,
-	pspp,
-# Provides: <comma-separated list of packages>
-# Replaces: <comma-separated list of packages>
 Architecture: all
-# Copyright: <copyright file; defaults to GPL2>
-# Changelog: <changelog file; defaults to a generic changelog>
-# Readme: <README.Debian file; defaults to a generic one>
-# Extra-Files: <comma-separated list of additional files for the doc directory>
-# Files: <pair of space-separated paths; First is file to include, second is destination>
-#  <more pairs, if there's more than one file to include. Notice the starting space>
-Description: Biostatistics and Epidemiology Analysis Environment
- A specialized toolkit tailored for statistical analysis and clinical research. This package provides the necessary system-level dependencies for a seamless R-based analysis workflow.
+Multi-Arch: foreign
+Depends: ${misc:Depends},
+Recommends:
+ cmake,
+ default-jdk-headless | default-jdk,
+ emacs,
+ git | git-core,
+ libabsl-dev,
+ libfftw3-dev,
+ libgdal-dev,
+ libnode-dev | libv8-dev,
+ librsvg2-dev,
+ libudunits2-dev,
+ pandoc,
+ quarto,
+ r-base,
+ r-base-dev,
+ rstudio,
+ sqlite3,
+ duckdb,
+ ubuntu-minimal,
+ ubuntu-standard,
+Suggests:
+ aptitude,
+ jupyter,
+ unixodbc,
+ mdbtools | mdbtools-dev,
+ mysql-client,
+ mysql-server,
+ postgresql,
+ pspp,
+Description: philsf's medical statistics toolkit
+ Metapackage for an R-based environment for statistical analysis.
  .
- It is designed to ensure a stable, reproducible environment for R, satisfying the build requirements for CRAN packages.
+ It assumes R packages are installed directly from CRAN rather than
+ native .deb packages, providing the system headers and development
+ tools required to compile from source. This configuration supports
+ clinical research workflows for epidemiologists and biostatisticians.
