@@ -1,5 +1,6 @@
 philsf-likes-stats (0.3.1) UNRELEASED; urgency=medium
 
+  * Fix: dependencies chain in 26.04 is not sufficient in 24.04
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Thu, 25 Jun 2026 22:06:16 -0300
 
