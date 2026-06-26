@@ -18,6 +18,7 @@ Recommends:
  default-jdk-headless | default-jdk,
  emacs,
  git | git-core,
+ git-gui | gitk,
  libabsl-dev,
  libfftw3-dev,
  libfribidi-dev,
