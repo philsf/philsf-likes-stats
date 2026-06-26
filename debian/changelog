@@ -1,3 +1,10 @@
+philsf-likes-stats (0.3.2) resolute; urgency=medium
+
+  * Added (Recommends): libcurl4-openssl-dev, libssl-dev, libxml2-dev,
+  * Added (Suggests): zoom, teams
+
+ -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 26 Jun 2026 06:11:35 -0300
+
 philsf-likes-stats (0.3.1) resolute; urgency=medium
 
   * Fix: dependencies chain in 26.04 is not sufficient in 24.04

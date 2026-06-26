@@ -28,6 +28,9 @@ Recommends:
  libnode-dev | libv8-dev,
  librsvg2-dev,
  libudunits2-dev,
+ libcurl4-openssl-dev,
+ libssl-dev,
+ libxml2-dev,
  pandoc,
  r-base,
  r-base-dev,
@@ -35,6 +38,8 @@ Recommends:
  quarto,
  sqlite3,
  duckdb,
+ zoom,
+ teams,
 Suggests:
  aptitude,
  jupyter,
