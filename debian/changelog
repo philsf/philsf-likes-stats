@@ -1,5 +1,6 @@
 philsf-likes-stats (0.3.2) UNRELEASED; urgency=medium
 
+  * Added (Recommends): libcurl4-openssl-dev, libssl-dev, libxml2-dev,
 
  -- Felipe Figueiredo <philsf79@gmail.com>  Fri, 26 Jun 2026 03:02:13 -0300
 
