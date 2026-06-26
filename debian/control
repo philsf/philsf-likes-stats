@@ -38,6 +38,8 @@ Recommends:
  quarto,
  sqlite3,
  duckdb,
+ zoom,
+ teams,
 Suggests:
  aptitude,
  jupyter,
